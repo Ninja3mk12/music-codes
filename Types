@@ -1,7 +1,8 @@
 Types = {
-["MM2"] = true
-["Squid Game x"] = true
-["AimBot Pro"] = true
-["Ninja Legends"] = true
-["Auto Teleport"] = true
-["Time Bomb Arab"] = true
+    ["MM2"] = true,
+    ["Squid Game x"] = true,
+    ["AimBot Pro"] = true,
+    ["Ninja Legends"] = true,
+    ["Auto Teleport"] = true,
+    ["Time Bomb Arab"] = true
+}
