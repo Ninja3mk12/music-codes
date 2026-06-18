@@ -1,4 +1,4 @@
-Types = {
+local Types = {
     ["MM2"] = true,
     ["Squid Game x"] = true,
     ["AimBot Pro"] = true,
@@ -6,3 +6,4 @@ Types = {
     ["Auto Teleport"] = true,
     ["Time Bomb Arab"] = true
 }
+return Types
