@@ -2,8 +2,10 @@ local Types = {
     ["MM2"] = true,
     ["Squid Game x"] = true,
     ["AimBot Pro"] = true,
+    ["Flag Wars Aimbot"] = true,
     ["Ninja Legends"] = true,
     ["Auto Teleport"] = true,
+    ["Booga Booga"] = true,
     ["Time Bomb Arab"] = true
 }
 return Types
